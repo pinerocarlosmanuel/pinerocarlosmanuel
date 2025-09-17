@@ -1,12 +1,25 @@
 [![Header](https://raw.githubusercontent.com/Pranjaljain0/Pranjaljain0/master/Asset%201.png "Header")](https://pranjaljain.tech/)
+<div align="center">
+  <a href="#"><img src="./Images/fondo.png" alt="Banner Profile" width="100%"></a>
+</div>
+<img src="./Images/line-neon.gif" width="100%">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lora&pause=1000&color=%236FDA44&size=32&center=true&vCenter=true&width=600&lines=I+am+pinerocarlomanuel!+%F0%9F%91%8B;Computer+Science+Engineer;" alt="Typing SVG" />
+</div>
+<img src="./Images/line-neon.gif" width="100%">
+<div>
+  <p>
+    I am <strong>pinerocarlomanuel</strong>! I am a <strong>Computer Science Engineer</strong> with a strong background in <strong>Backend, Database Programming</strong>, and <strong>Data Science</strong>. I also develop <strong>RAG systems (Retrieval-Augmented Generation)</strong> powered by Large Language Models (LLMs), which combine structured and unstructured data to provide intelligent and contextual responses.
+  </p>
+  <p>
+    📫 Reach me at: <strong>pinerocarlomanuel@gmail.com</strong>
+  </p>
+</div>
 
-### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## [![Twitter Badge](https://img.shields.io/badge/-@pranjaljain0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pranjaljain0)](https://twitter.com/pranjaljain0) [![Linkedin Badge](https://img.shields.io/badge/-pranjaljain0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/pranjaljain0/) [![Gmail Badge](https://img.shields.io/badge/-hello@pranjaljain.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@pranjaljain.tech)](mailto:hello@pranjaljain.tech)
+</div>
 
-- 🔭 I’m currently working on something amazing
-- 📫 How to reach me: [www.pranjaljain.tech](https://www.pranjaljain.tech)
-- ⚡ Fun fact: I am always working
+
 
 ## 🔧 Technologies & Tools
 
