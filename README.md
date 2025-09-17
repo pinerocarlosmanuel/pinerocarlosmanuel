@@ -21,63 +21,74 @@
 
 
 
-## 🔧 Technologies & Tools
+<h3 align="left">🛠️ Skills & Technologies:</h3>
 
-### Frontend
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+**Programming languages:**
 
-### Frameworks
+  <p>
+      <img src="/Images/pyhton.png" alt="Python" width="50" height="50"/>
+      <img src="/Images/typescript.png" alt="TypeScript" width="50" height="50"/>
+      <img src="/Images/javascript.jpeg" alt="JavaScript" width="50" height="50"/>
+      <img src="/Images/java.png" alt="Java" width="50" height="50"/>
+      <img src="/Images/cplusplus.png" alt="C++" width="50" height="50"/>
+  </p>
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+**Frontend Development:**
 
-### Mobile
+  <p>
+      <img src="/Images/html.png" alt="HTML5" width="50" height="50"/>
+      <img src="/Images/css.png" alt="CSS3" width="50" height="50"/>
+      <img src="/Images/react.png" alt="React" width="50" height="50"/>
+      <img src="/Images/Next.js-900x0.png" alt="Next.js" width="50" height="50""/>
+      <img src="/Images/tailwind.png" alt="TailwindCSS" width="50" height="50"/>
+      <img src="/Images/bootstrap.png" alt="Bootstrap" width="50" height="50"/>
+      <img src="/Images/andt.png" alt="Ant Design" width="50" height="50"/>
+      <img src="/Images/gradio-color.png" alt="Gradio" width="50" height="50"/>
+  </p>
 
-![Flutter](https://img.shields.io/badge/-flutter-1d1d1d?style=flat-square&logo=flutter)
+**🤖 Multi-Agent Systems & AI:**
 
-# Languages
+  <p>
+      <img src="/Images/langchain.svg" alt="Langchain" width="50" height="50"/>
+      <img src="/Images/langgraph-color.png" alt="Langgraph" width="50" height="50"/>
+      <img src="/Images/langsmith-color.png" alt="Langsmith" width="50" height="50"/>
+      <img src="/Images/ADK.png" alt="ADK" width="50" height="50"/>
+      <img src="/Images/mcp.png" alt="MCP" width="50" height="50"/>
+      <img src="/Images/a2a-logo-white.svg" alt="A2A" width="50" height="50"/>
+      <img src="/Images/n8n-color.png" alt="N8N" width="50" height="50"/>
+      <img src="/Images/gemini-color.png" alt="Gemini API" width="50" height="50"/>
+      <img src="/Images/openai.png" alt="OpenAi Platform" width="50" height="50"/>
+      <img src="/Images/huggingface-color.png" alt="Huggingface" width="50" height="50"/>
+  </p>
 
-![C](https://img.shields.io/badge/-3d3d3d?style=flat&logo=c&logoColor=white&link=https://github.com/pranjaljain0)
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/pranjaljain0)
+**Backend & Databases:**
 
-### Design
+  <p>
+      <img src="/Images/icons8-django-a-high-level-python-web-framework-that-encourages-rapid-development-100.png" alt="Django" width="50" height="50"/>
+      <img src="/Images/spring-boot.png" alt="Spring" width="50" height="50"/>
+      <img src="/Images/postgre.png" alt="PostgreSQL" width="50" height="50"/>
+      <img src="/Images/chroma.png" alt="ChromaDB" width="50" height="50"/>
+    
+  </p>
 
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
-![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
+**Tools & Platforms:**
 
-### Motion Graphics
+  <p>
+      <img src="/Images/icons8-git-96.png" alt="Git" width="50" height="50"/>
+      <img src="/Images/github.png" alt="GitHub" width="50" height="50"/>
+      <img src="/Images/visual-studio-code.png" alt="VS Code" width="50" height="50"/>
+      <img src="/Images/docker-mark-blue.svg" alt="Docker" width="50" height="50"/>
+      <img src="/Images/lmstudio.png" alt="LMStudio" width="50" height="50"/>
+      <img src="/Images/colab.png" alt="Colab" width="50" height="50"/>
+      <img src="/Images/NetBeans.png" alt="NetBeans" width="50" height="50"/>
+  </p>
+</div>
 
-![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-square&logo=adobe-after-effects)
+---
 
-### Database
 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
-### Deploy
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify)
-
-### Editors
-
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/Pranjaljain0/Pranjaljain0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjaljain0&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Pranjaljain0/Pranjaljain0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjaljain0&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
-</a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pranjaljain0.pranjaljain0)
 
