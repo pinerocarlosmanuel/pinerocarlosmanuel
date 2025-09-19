@@ -40,36 +40,27 @@
   <p>
       <img src="/Image/html.png" alt="HTML5" width="50" height="50"/>
       <img src="/Image/css.png" alt="CSS3" width="50" height="50"/>
-      <img src="/Image/react.png" alt="React" width="50" height="50"/>
-      <img src="/Image/Next.js-900x0.png" alt="Next.js" width="50" height="50""/>
-      <img src="/Image/tailwind.png" alt="TailwindCSS" width="50" height="50"/>
-      <img src="/Image/bootstrap.png" alt="Bootstrap" width="50" height="50"/>
-      <img src="/Image/andt.png" alt="Ant Design" width="50" height="50"/>
-      <img src="/Image/gradio-color.png" alt="Gradio" width="50" height="50"/>
+     
   </p>
 
 **🤖 Multi-Agent Systems & AI:**
 
   <p>
       <img src="/Image/langchain.svg" alt="Langchain" width="50" height="50"/>
-      <img src="/Image/langgraph-color.png" alt="Langgraph" width="50" height="50"/>
-      <img src="/Image/langsmith-color.png" alt="Langsmith" width="50" height="50"/>
-      <img src="/Image/ADK.png" alt="ADK" width="50" height="50"/>
+     
       <img src="/Image/mcp.png" alt="MCP" width="50" height="50"/>
-      <img src="/Image/a2a-logo-white.svg" alt="A2A" width="50" height="50"/>
+   
       <img src="/Image/n8n-color.png" alt="N8N" width="50" height="50"/>
-      <img src="/Image/gemini-color.png" alt="Gemini API" width="50" height="50"/>
-      <img src="/Image/openai.png" alt="OpenAi Platform" width="50" height="50"/>
-      <img src="/Image/huggingface-color.png" alt="Huggingface" width="50" height="50"/>
+    
   </p>
 
 **Backend & Databases:**
 
   <p>
       <img src="/Image/icons8-django-a-high-level-python-web-framework-that-encourages-rapid-development-100.png" alt="Django" width="50" height="50"/>
-      <img src="/Image/spring-boot.png" alt="Spring" width="50" height="50"/>
+ 
       <img src="/Image/postgre.png" alt="PostgreSQL" width="50" height="50"/>
-      <img src="/Image/chroma.png" alt="ChromaDB" width="50" height="50"/>
+     
     
   </p>
 
