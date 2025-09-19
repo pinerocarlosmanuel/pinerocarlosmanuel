@@ -23,7 +23,6 @@
 
   <p>
       <img src="/Image/pyhton.png" alt="Python" width="50" height="50"/>
-      <img src="/Image/typescript.png" alt="TypeScript" width="50" height="50"/>
       <img src="/Image/javascript.jpeg" alt="JavaScript" width="50" height="50"/>
       <img src="/Image/java.png" alt="Java" width="50" height="50"/>
       <img src="/Image/cplusplus.png" alt="C++" width="50" height="50"/>
