@@ -48,7 +48,7 @@
 **Backend & Databases:**
 
   <p>
-      <img src="/Image/icons8-django-a-high-level-python-web-framework-that-encourages-rapid-development-100.png" alt="Django" width="50" height="50"/>
+      <img src="/Image/django.png" alt="Django" width="50" height="50"/>
       <img src="/Image/postgre.png" alt="PostgreSQL" width="50" height="50"/>
       <img src="/Image/ruby_on_rails.png" alt="Ruby on Rails" width="50" height="50"/>
     
@@ -68,7 +68,6 @@
     <img src="/Image/jupyter_notebook.png" alt="Jupyter" width="50" height="50"/>
      <img src="/Image/tensorflow.png" alt="Tensorflow" width="50" height="50"/>
       <img src="/Image/colab.png" alt="Colab" width="50" height="50"/>
-      <img src="/Image/NetBeans.png" alt="NetBeans" width="50" height="50"/>
   </p>
 </div>
 
