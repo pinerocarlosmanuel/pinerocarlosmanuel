@@ -24,6 +24,7 @@
   <p>
       <img src="/Image/pyhton.png" alt="Python" width="50" height="50"/>
       <img src="/Image/javascript.jpeg" alt="JavaScript" width="50" height="50"/>
+     <img src="/Image/ruby.png" alt="runy" width="50" height="50"/>
       <img src="/Image/java.png" alt="Java" width="50" height="50"/>
       <img src="/Image/cplusplus.png" alt="C++" width="50" height="50"/>
   </p>
@@ -39,10 +40,7 @@
 **🤖 Multi-Agent Systems & AI:**
 
   <p>
-      <img src="/Image/langchain.svg" alt="Langchain" width="50" height="50"/>
-     
-      <img src="/Image/mcp.png" alt="MCP" width="50" height="50"/>
-   
+      <img src="/Image/langchain_icon.png" alt="Langchain" width="50" height="50"/>   
       <img src="/Image/n8n-color.png" alt="N8N" width="50" height="50"/>
     
   </p>
@@ -51,20 +49,24 @@
 
   <p>
       <img src="/Image/icons8-django-a-high-level-python-web-framework-that-encourages-rapid-development-100.png" alt="Django" width="50" height="50"/>
- 
       <img src="/Image/postgre.png" alt="PostgreSQL" width="50" height="50"/>
-     
+      <img src="/Image/ruby_on_rails.png" alt="Ruby on Rails" width="50" height="50"/>
     
   </p>
 
 **Tools & Platforms:**
 
   <p>
+    <img src="/Image/Streamlit.png" alt="Streamlit" width="50" height="50"/>
       <img src="/Image/icons8-git-96.png" alt="Git" width="50" height="50"/>
       <img src="/Image/github.png" alt="GitHub" width="50" height="50"/>
       <img src="/Image/visual-studio-code.png" alt="VS Code" width="50" height="50"/>
+      <img src="/Image/aws.png" alt="AWS" width="50" height="50"/>
       <img src="/Image/docker-mark-blue.svg" alt="Docker" width="50" height="50"/>
-      <img src="/Image/lmstudio.png" alt="LMStudio" width="50" height="50"/>
+     <img src="/Image/mosquitto.png" alt="Mosquitto" width="50" height="50"/>
+     <img src="/Image/pandas.png" alt="Pandas" width="50" height="50"/>
+    <img src="/Image/jupyter_notebook.png" alt="Jupyter" width="50" height="50"/>
+     <img src="/Image/tensorflow.png" alt="Tensorflow" width="50" height="50"/>
       <img src="/Image/colab.png" alt="Colab" width="50" height="50"/>
       <img src="/Image/NetBeans.png" alt="NetBeans" width="50" height="50"/>
   </p>
