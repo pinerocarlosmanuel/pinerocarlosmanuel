@@ -15,12 +15,6 @@
     📫 Reach me at: <strong>pinerocarlomanuel@gmail.com</strong>
   </p>
 </div>
-
-
-</div>
-
-
-
 <h3 align="left">🛠️ Skills & Technologies:</h3>
 
 <div align="center">
